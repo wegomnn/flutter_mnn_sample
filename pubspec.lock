@@ -149,13 +149,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
-  ndialog:
-    dependency: "direct main"
-    description:
-      name: ndialog
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "4.1.1+1"
   path:
     dependency: transitive
     description:
@@ -304,9 +297,11 @@ packages:
   wego_mnn:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "2569f83624b7e046c1449c756fb12b50099f285c"
+      url: "https://github.com/wegomnn/flutter_mnn_plugin.git"
+    source: git
     version: "0.0.1"
   win32:
     dependency: transitive

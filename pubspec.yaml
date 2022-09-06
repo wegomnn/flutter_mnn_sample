@@ -24,15 +24,13 @@ dependencies:
     # See https://dart.dev/tools/pub/dependencies#version-constraints
     # The example app is bundled with the plugin so we use a path dependency on
     # the parent directory to use the current plugin's version.
-    path: ../
+    git: https://github.com/wegomnn/flutter_mnn_plugin.git
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   # 状态管理
   get: ^4.6.1
-  # 加载进度条
-  ndialog: ^4.1.1+1
   # 文件系统
   path_provider: ^2.0.11
   # 吐司
