@@ -299,7 +299,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "2569f83624b7e046c1449c756fb12b50099f285c"
+      resolved-ref: "210237fecacaeac1e2b7ebf975ee67f79d8ceff7"
       url: "https://github.com/wegomnn/flutter_mnn_plugin.git"
     source: git
     version: "0.0.1"
